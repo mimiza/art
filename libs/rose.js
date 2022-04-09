@@ -7,8 +7,8 @@ function setup() {
 
 function draw() {
     translate(width/2, height/2)
-    const n = 2
-    const d = 5
+    const n = 5
+    const d = 8
     const k = n/d
     stroke('green')
     strokeWeight(3)
